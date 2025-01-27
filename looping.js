@@ -44,15 +44,3 @@
 // }
 
 
-function addToCart(){
-    alert("Product is added to cart")
-}
-
-function add(a,b){
-    console.log(a+b);
-}
-add(10 , 40)
-add(30 , 40)
-add(50 , 40)
-add(100 , 40)
-add(13 , 50)
